@@ -3,7 +3,7 @@
 🎓 I'm a student and self-taught developer from Nepal.  
 💻 I love coding and building cool web apps!  
 🌱 I'm learning React, Node.js, and MongoDB.  
-📫 Reach me at: mirajgautam2050@gmail.com
+📫 Reach me at: gautammiraj64@gmail.com
 
 ---
 
