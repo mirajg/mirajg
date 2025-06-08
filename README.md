@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Miraj Gautam 👋
 
-<!--
-**mirajg/mirajg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student and self-taught developer from Nepal.  
+💻 I love coding and building cool web apps!  
+🌱 I'm learning React, Node.js, and MongoDB.  
+📫 Reach me at: mirajgautam2050@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- HTML, CSS, JavaScript
+- React.js, Node.js, Express.js
+- Next JS
+- Socket.io
+- MongoDB, Git, GitHub
+- Editing
+
+
+---
+
+## 📷 Fun Fact
+
+I also enjoy making YouTube Shorts😄
