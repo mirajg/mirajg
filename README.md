@@ -11,6 +11,7 @@
 
 - HTML, CSS, JavaScript
 - React.js, Node.js, Express.js
+- Three JS, GSAP
 - Next JS
 - Socket.io
 - MongoDB, Git, GitHub
