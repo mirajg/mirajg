@@ -10,6 +10,7 @@
 ## 🛠️ Skills
 
 - HTML, CSS, JavaScript
+- Data Structures & Algorithms (DSA)
 - React.js, Node.js, Express.js
 - Three JS, GSAP
 - Next JS
